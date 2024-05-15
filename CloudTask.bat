@@ -1,3 +1,3 @@
 @ECHO OFF
 dir
-PAUSE
+
